@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-facebook
-=======
-twitter
->>>>>>> Implement Twitter login
+Facebook
+Twitter

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 facebook
+=======
+twitter
+>>>>>>> Implement Twitter login
